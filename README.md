@@ -20,10 +20,14 @@ python main.py --list-devices
 python main.py --mode preview --show
 ```
 
+![RGB önizleme](images/1.png)
+
 ## AI derinlik (detect) modu ile kamerayı açma
 
 ```
 python main.py --mode detect --show
 ```
+
+![Derinlik ve nesne tespiti](images/2.png)
 
 Önizleme penceresinden çıkmak için `q` tuşuna basın.
