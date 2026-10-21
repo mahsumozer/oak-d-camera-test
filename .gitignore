@@ -5,7 +5,8 @@ __pycache__/
 venv/
 
 # DepthAI model cache (runtime'da otomatik iner)
-.depthai_cached_models/
+/.depthai_cached_models/
+.locks/
 
 # OS / editor
 .DS_Store
